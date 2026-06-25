@@ -98,7 +98,7 @@
 
 
 ## OTHER PROJECTS
-- [ ] API + IP Rate limiter using redis
+- [x] API + IP Rate limiter using redis
 - [ ] Make Scaling Notification ( PUB SUB IGuess)
 - [ ] Design and implement tinder feed
 - [ ] Design and implement twitter trends
