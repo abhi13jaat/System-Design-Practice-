@@ -32,9 +32,9 @@
 
 ## CACHING SYSTEMS
 ### Core Caching
-- [ ] ~~In-memory cache - Redis~~
-- [ ] ~~Cache-aside pattern~~
-- [ ] ~~Cache hit/miss tracking~~
+- [x] In-memory cache - Redis
+- [x] Cache-aside pattern~~
+- [x] Cache hit/miss tracking
 ### Cache Scaling
 - [ ] Cache warm-up
 - [ ] TTL handling
